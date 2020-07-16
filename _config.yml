@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Henri Klein | Portfolio
 # description: This will be meta HTML tag content. This can be ignored.
-description: Hey, My Name is Henri Klein. I am a 16yo UX/UI designer and developer interested in tech. This site is used as my Portfolio, showing all my projects and skills.
+description: Hey, My Name is Henri Klein. I am a 16yo UI designer and developer interested in tech. This site is used as my Portfolio, showing all my projects and skills.
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
