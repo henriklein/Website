@@ -1,0 +1,76 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: c0nnect
+  title-url: https://c0nnect.me/
+  date: April 2020 - now
+  subtitle: a revolutionizing way friends interact
+  tags:
+    - tag: .dart
+    - tag: Firebase
+    - tag: HTML / CSS
+  timeline-side: left
+
+- title: Exchange Year
+  title-url: https://www.high-school-canada.com/apps/pages/index.jsp?uREC_ID=1095924&type=d&pREC_ID=1371877/
+  date: September 2019 - April 2020
+  subtitle: Canada | Howe Sound Secondary
+  tags:
+    - tag: Digital Media Arts
+    - tag: Computer scince
+  timeline-side: right
+
+- title:  theSourceCode.tech
+  title-url: https://thesourcecode.tech/
+  date: Januar 2020
+  subtitle: meachendice for developers and missfits
+  tags:
+    - tag: Illustraitor
+    - tag: E-commerce
+    - tag: HTML / CSS
+  timeline-side: left
+
+- title: Internship at Bourros
+  title-url: https://Bourros.com/
+  date: June 2018 and Januar 2019
+  subtitle: Digital and Print
+  tags:
+    - tag: Photoshop
+    - tag: Illustraitor
+    - tag: InDesign
+  timeline-side: left
+
+
+- title: Kaiserin-Friedrich-Gymnasium
+  title-url: https://Kaiserin-Friedrich.de/
+  date: Sep 2014 - 2019
+  subtitle: Graduaded till greade 9
+  tags:
+    - tag: joining tech-club
+    - tag: HTML and Python
+  timeline-side: right
+
+- title: Benefit Project
+  title-url: https://www.who.int/
+  date: Spring 2014
+  subtitle: Donation two Fountains
+  tags:
+    - tag: Kenyan
+    - tag: WorldHealthOrganisation
+  timeline-side: left
