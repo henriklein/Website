@@ -79,7 +79,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: In the unlikly event you want to contact me, here're some options :)
+contact_description: sign up for my Newsletter: here
 
 # GITHUB-METADATA
 # Set this to your forked repository
