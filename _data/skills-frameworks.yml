@@ -7,13 +7,12 @@
 
 
 - name: React
-  weight: 2
-
-- name: Node
   weight: 1
+
+
 
 - name: Flutter
   weight: 4
 
 - name: jekyll
-  weight: 3
+  weight: 2

@@ -14,7 +14,7 @@ baseurl: ""
 username: Henri
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Student that loves to code
+typing_text: Ambitious teenager trying to do stuff
 # email: Your E-Mail address for the email button.
 email: email@henriklein.de
 # For every social button you want to display, set your username or userid
@@ -67,9 +67,9 @@ projects_title: other projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: false
+show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Open Source Projects
+os_projects_title: MY public github repos
 
 # CONTACT SECTION
 # show_contact_card:

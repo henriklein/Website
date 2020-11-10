@@ -17,15 +17,47 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: c0nnect
+- title: C0NNECT
   title-url: https://c0nnect.me/
   date: April 2020 - now
-  subtitle: a revolutionizing way friends interact
+  subtitle: connect simplifys the way friends interact.
   tags:
     - tag: .dart
-    - tag: Firebase
+    - tag: Django
     - tag: HTML / CSS
+  timeline-side: leftg
+- title: detectiveAI
+  title-url: https://detectiveai.now.sh/
+  date: September 2020
+  subtitle: A secure and autonymous way to report crimes within less than a minute. (click for beta)
+  tags:
+    - tag: .dart
+    - tag: HTML/CSS/JS
+    - tag: Hackathon
+    - tag: teamleading
   timeline-side: left
+
+- title: TheKnowledgeSociety
+  title-url: https://tks.life/profile/henri.klein
+  date: September 2020 - July 2021
+  subtitle: TKS is a problem-solving entrepreneur training school
+  tags:
+    - tag: networking
+    - tag: teamworking
+    - tag: building
+    - tag: Hachathons
+  timeline-side: right
+
+- title: Begemann Schule
+  title-url: https://begemannschule.de/
+  date: August 2020 - 2023
+  subtitle: Staatlich annerkanntes Wirschaftliches Gymnasium
+  tags:
+    - tag: economics
+    - tag: politics
+    - tag: accountings
+  timeline-side: right
+
 
 - title: Exchange Year
   title-url: https://www.high-school-canada.com/apps/pages/index.jsp?uREC_ID=1095924&type=d&pREC_ID=1371877/
