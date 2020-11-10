@@ -16,13 +16,19 @@
 
 
 
-- name: My thinkings
-  descr: "This page is displaying articles, Thought-experiments and ideas I feel like spreading. "
+- name: VDwiki
+  descr: "We have also been working on VDwiki, a software supposed to be able to create educational videos based on already written Wikipedia articles. We decided to focus on C0NNECT first instead."
   tags:
+    - tag: Flutter
+    - tag: Python
+    - tag: Json
+
 
 
 - name: Endurance plane
   descr: "EyeInSky is a project that requires mechanical and software skills. I combine an endurance plane and a camera system connected to a Raspberry PI and Flight controller, flying autonomous, following or circling objects."
 
   tags:
-    - tag: Swift | IOS only
+    - tag: Python
+    - tag: AI
+    - tag: hardware
