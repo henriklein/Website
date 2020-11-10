@@ -22,10 +22,11 @@
   date: April 2020 - now
   subtitle: connect simplifys the way friends interact.
   tags:
-    - tag: .dart
+    - tag: dart
     - tag: Django
     - tag: HTML / CSS
-  timeline-side: leftg
+  timeline-side: left
+
 - title: detectiveAI
   title-url: https://detectiveai.now.sh/
   date: September 2020
@@ -58,16 +59,6 @@
     - tag: accountings
   timeline-side: right
 
-
-- title: Exchange Year
-  title-url: https://www.high-school-canada.com/apps/pages/index.jsp?uREC_ID=1095924&type=d&pREC_ID=1371877/
-  date: September 2019 - June 2020
-  subtitle: Canada | Howe Sound Secondary
-  tags:
-    - tag: Digital Media Arts
-    - tag: Computer scince
-  timeline-side: right
-
 - title:  theSourceCode.tech
   title-url: https://thesourcecode.tech/
   date: Januar 2020
@@ -77,6 +68,17 @@
     - tag: E-commerce
     - tag: HTML / CSS
   timeline-side: left
+  
+- title: Exchange Year
+  title-url: https://www.high-school-canada.com/apps/pages/index.jsp?uREC_ID=1095924&type=d&pREC_ID=1371877/
+  date: September 2019 - June 2020
+  subtitle: Canada | Howe Sound Secondary
+  tags:
+    - tag: Digital Media Arts
+    - tag: Computer scince
+  timeline-side: right
+
+
 
 - title: Internship at Bourros
   title-url: https://Bourros.com/
