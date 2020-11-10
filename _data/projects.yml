@@ -16,16 +16,13 @@
 
 
 
-- name: EyeInSky
-  descr: "EyeInSky is a project that requires mechanical and software skills. I combine an endurance plane and a camera system connected to a Raspberry PI and Flight controller, flying autonomous, following or circling objects. "
+- name: My thinkings
+  descr: "This page is displaying articles, Thought-experiments and ideas I feel like spreading. "
   tags:
-    - tag: Python
-    - tag: aerodynamics
-    - tag: Hardware - skills
 
 
-- name: catchRelease
-  descr: "mobile challange app... more informations comming soon."
+- name: Endurance plane
+  descr: "EyeInSky is a project that requires mechanical and software skills. I combine an endurance plane and a camera system connected to a Raspberry PI and Flight controller, flying autonomous, following or circling objects."
 
   tags:
     - tag: Swift | IOS only

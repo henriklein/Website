@@ -63,7 +63,7 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: other projects
+projects_title: other links to projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
@@ -84,7 +84,7 @@ contact_description: Hey, I'd love to talk to you. Hit me up on any platform.
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: klnHenri/portfolio
+repository: klnHenri/Website
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
@@ -101,7 +101,10 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
-    # - repo1-to-be-excluded
+    - dailyBrainfood.vdwiki.com
+    - VDwiki_web
+
+
     # - repo2-to-be-excluded
 
 # GOOGLE-ANALYTICS
