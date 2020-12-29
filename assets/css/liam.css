@@ -128,7 +128,13 @@ a:active {
     text-decoration: none;
 }
 
-.col-lg-6 {}
+.col-lg-6 {
+    padding-bottom: -20%;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: -42px;
+}
 
 p {
     color: rgba(255, 255, 255, .5);
@@ -778,7 +784,7 @@ a.header-logo {
 }
 
 .about-desc-info {
-    margin-bottom: 20px;
+    margin-bottom: 21px;
     position: relative;
 }
 
