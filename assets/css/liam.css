@@ -65,6 +65,7 @@ time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
     display: block;
+    /* [disabled]color: inherit; */
 }
 body {
     font: 400 14px/1.8 'Poppins', sans-serif;
