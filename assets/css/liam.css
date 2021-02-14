@@ -57,11 +57,11 @@ menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
     margin-top: 0px;
     margin-right: 0px;
-    margin-left: 3px;
+    margin-left: 0px;
     margin-bottom: 0px;
     padding-top: 0;
     padding-right: 0;
-    padding-left: 0px;
+    padding-left: 3px;
     padding-bottom: 0;
     border: 0;
     font-size: 100%;
